@@ -1,0 +1,4 @@
+-
+  #group: "Main organizer"
+  elements:
+    - {name: "SOTIBA", description: "SOTIBA", link: "http://lviv.gdg.org.ua", imageUrl: "sotiba.png"}

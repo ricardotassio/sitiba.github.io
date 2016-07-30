@@ -1,0 +1,22 @@
+<svg width="185" height="188" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_89" y="32" x="49.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">SITIBA</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="21" id="svg_95" y="52" x="34.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Edição 2016</text>
+  </g>
+  <g id="svg_29">
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_96" y="86.083271" x="49.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">SITIBA</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="21" id="svg_97" y="106.083271" x="34.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Edição 2016</text>
+  </g>
+  <g fill="#E6E6E5" id="svg_102">
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_100" y="153.150402" x="49.5" stroke-width="0" fill="#E6E6E5">SITIBA</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="21" id="svg_101" y="173.150402" x="34.5" stroke-width="0" fill="#E6E6E5">Edição 2016</text>
+  </g>
+ </g>
+</svg>

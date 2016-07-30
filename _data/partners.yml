@@ -1,0 +1,30 @@
+-
+  group: ""
+  elements:
+    - {name: "Itadil", description: "Itadil", link: "http://www.grupoitadil.com.br/", imageUrl: "patrocinio-itadil.png"}
+    - {name: "Pfizer", description: "Pfizer", link: "http://www.pfizer.com.br/", imageUrl: "patrocinio-pfizer.jpeg"}
+    - {name: "MSD", description: "MSD", link: "http://www.corporativo.msdonline.com.br/", imageUrl: "patrocinio-msd.png"}
+    - {name: "Sanofi", description: "Sanofi", link: "http://www.sanofi.com.br/l/br/pt/index.jsp", imageUrl: "patrocinio-sanofi.png"}
+    - {name: "Sonosite", description: "Sonosite", link: "https://www.sonosite.com/", imageUrl: "patrocinio-sonosite.png"}
+    - {name: "Astra", description: "Astra", link: "http://www.astrazeneca.com.br/2011/index.asp", imageUrl: "patrocinio-astra.gif"}
+    - {name: "Bayer", description: "Bayer", link: "https://www.bayer.com.br/", imageUrl: "patrocinio-bayer.jpeg"}
+    - {name: "Astellas", description: "Astellas", link: "http://www.astellasfarma.com.br/", imageUrl: "patrocinio-astellas.gif"}
+
+# -
+#   group: "With support of"
+#   elements:
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+# -
+#   group: "Information partners"
+#   elements:
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
